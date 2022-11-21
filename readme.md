@@ -1,20 +1,26 @@
 
-![](CITI_2019_01.jpg)
 
 # Minicurso TensorFlow
-Bem vindo ao minicurso de TensorFlow básico, neste repositório você encontrará todo o material utilizado no minicurso durante o 10º Congresso Integrado da Tecnologia da Informação (CITI) promovido pelo Instituto Federal Fluminense campus Campos Centro.
+Bem vindo ao minicurso de TensorFlow básico, neste repositório você encontrará todo o material utilizado no minicurso durante a Semana de Integração de engenharias promovido pelo Instituto Federal Fluminense Campus Campos Centro.
 
 ![](Minicurso.png)
 
 ## Tópicos abordados no minicurso
 
-* O que é uma rede neural, seus tipos e como começar
+* Aprender sobre o conceito de ML e Deep Learning
+* Entender o que é uma rede neural, seus tipos e como começar
 * Entender o que é o TensorFlow e como ele trabalha
-* Laboratório 1: Entendendo a estrutura do TensorFlow
-* Estudo de caso: Classificando imagens de roupas com o Keras 
-* Laboratório 2: Classificando imagens de roupas com o Keras
+* Estudo de caso: Classificando imagens de roupas com o Keras
+* Estudo de caso 2: ML aplicado ao diagnóstico de câncer
+* Bônus - ML para embarcados: Criando o modelo e carregando em um esp32
+*  Dicas de livros
+*  Dicas de curso
+*  Dica de setup para começar a desenvolver
+*  Aplicações de IA
+*  Curiosidade: É possível hackear  uma rede neural?
+
 
 
 
 ##### Ministrante: Ronald Lopes
-##### Site do congresso: http://citi2019.centro.iff.edu.br/apresentacao
+##### Site do congresso: https://eventos.iff.edu.br/semanaengenharias2022
